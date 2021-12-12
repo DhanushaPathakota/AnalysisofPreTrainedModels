@@ -1,1 +1,1 @@
-# AnalysisofPreTrainedModels
+Summarizer using  pre trained language models GPT-2,BART and BERT.The system generated summaries are then evaluated using the ROUGE(Relevant Organized Group of Underground Educators) metric which compares it with the human written summaries.
